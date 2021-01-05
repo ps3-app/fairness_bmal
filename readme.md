@@ -1,8 +1,8 @@
-code based for fairness batch-mode active learning
+code based for fairness batch-mode active learning <br>
 
-requirements :
-python = 3.6
-scikit-learn
-nltk
-pandas
-numpy
+requirements : <br>
+python = 3.6 <br>
+scikit-learn <br>
+nltk <br>
+pandas <br>
+numpy <br>
